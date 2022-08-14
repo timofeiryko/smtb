@@ -18,6 +18,10 @@
 
 In many  notebooks there are some path constants, which should be changed to run the notebook, because  you can store data in different places. Please, create such constants and add them to the beginning of your notebook into `Imports ant set up` section (like `HTML_PATH`)
 
+### Environment
+
+We use conda to manage environment. To reptoduce it, use `env.yml` file.
+
 # Data
 
 Data is NOT stored here, it is on our cluster. If you place some large datafiles in this folder locally, please, add it to `.gitignore`. 
