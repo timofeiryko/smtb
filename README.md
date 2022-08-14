@@ -4,7 +4,7 @@
 2) Attach meaningful messages to your commits, give your notebooks and other files clear names 
 2) Branch, if you modified something, that other person also modified
 3) Before uploading the notebook, please, restart it and run all the cells to make sure, that all is ok
-4) Notebooks should be well formated: structure it with headings in Markdown and briefly explain what is going on
+4) Notebooks should be well formatted: structure it with headings in Markdown and briefly explain what is going on
 
 ### Proposed notebook structure
 - Imports and set up
@@ -20,7 +20,7 @@ In many  notebooks there are some path constants, which should be changed to run
 
 ### Environment
 
-We use conda to manage environment. To reptoduce it, use `env.yml` file.
+We use conda to manage environments. To reproduce it, use `env.yml` file.
 
 # Data
 
@@ -36,6 +36,6 @@ https://drive.google.com/drive/folders/1FeQQMyMXL3b7PiAs62wSqhbSsZpQOe76?usp=sha
 
 ### preprocessing
 
-Different scrpits and small text files with data related to data preprocessing
+Different scripts and small text files with data related to data preprocessing
 
 ### biochemistry
