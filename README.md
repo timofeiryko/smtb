@@ -2,6 +2,8 @@
 
 This is the repo I created for the bioinformatics project at SMTB. All the codes are just drafts, it is work in progress.
 
+Results of of work can be found [here](https://molbioschool.org/media/archive/school2022t/bioinformatics-lab/Lab01b_A0_Poster_Lab1_Buyanova_copy.pdf).
+
 # Workflow
 
 1) Pull this repo before you start some work and push it, when you have done something
