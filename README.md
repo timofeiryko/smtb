@@ -1,3 +1,7 @@
+# About this repo
+
+This is the repo I created for the bioinformatics project at SMTB. All the codes are just drafts, it is work in progress.
+
 # Workflow
 
 1) Pull this repo before you start some work and push it, when you have done something
