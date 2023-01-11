@@ -1,3 +1,7 @@
+# About this repo
+
+This is a repository, which I created for our project at SMTB. Codes here are just drafts, this is work in progress.
+
 # Workflow
 
 1) Pull this repo before you start some work and push it, when you have done something
